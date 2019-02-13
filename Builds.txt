@@ -4,7 +4,7 @@ zip="http://"
 
 name="Aqua Build"
 version="1.0"
-url="http://aftermathwizard.net/repo/builds/test.zip"
+url="https://kodihub.net/4ljnw"
 gui="http://"
 kodi="18.0"
 theme="http://"
