@@ -1,6 +1,6 @@
-id="plugin.program.kkga"
+id="plugin.program.mkga"
 version="1.0"
-zip="http://aftermathwizard.net/repo/zips/plugin.program.aftermathwizard-0.1.0.zip"
+zip="http://"
 
 name="Aqua Build"
 version="1.0"
