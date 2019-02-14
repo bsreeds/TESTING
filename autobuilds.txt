@@ -1,4 +1,4 @@
-id="plugin.program.mkga"
+id="plugin.program.mkgawiz"
 version="1.0"
 zip="http://github.com/bsreeds/TESTING/blob/master/plugin.program.mkga-1.0.zip"
 
