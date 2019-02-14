@@ -1,4 +1,4 @@
-id="plugin.program.mkgawiz-1.0"
+id="plugin.program.mkgawiz1"
 version="1.0"
 zip="https://github.com/bsreeds/TESTING/blob/master/plugin.program.mkgawiz-1.0.zip"
 
